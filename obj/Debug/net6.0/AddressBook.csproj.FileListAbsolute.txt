@@ -1,0 +1,15 @@
+C:\Users\Rahul.DESKTOP-IK03H3J\source\repos\AddressBook\bin\Debug\net6.0\AddressBook.exe
+C:\Users\Rahul.DESKTOP-IK03H3J\source\repos\AddressBook\bin\Debug\net6.0\AddressBook.deps.json
+C:\Users\Rahul.DESKTOP-IK03H3J\source\repos\AddressBook\bin\Debug\net6.0\AddressBook.runtimeconfig.json
+C:\Users\Rahul.DESKTOP-IK03H3J\source\repos\AddressBook\bin\Debug\net6.0\AddressBook.dll
+C:\Users\Rahul.DESKTOP-IK03H3J\source\repos\AddressBook\bin\Debug\net6.0\AddressBook.pdb
+C:\Users\Rahul.DESKTOP-IK03H3J\source\repos\AddressBook\obj\Debug\net6.0\AddressBook.csproj.AssemblyReference.cache
+C:\Users\Rahul.DESKTOP-IK03H3J\source\repos\AddressBook\obj\Debug\net6.0\AddressBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rahul.DESKTOP-IK03H3J\source\repos\AddressBook\obj\Debug\net6.0\AddressBook.AssemblyInfoInputs.cache
+C:\Users\Rahul.DESKTOP-IK03H3J\source\repos\AddressBook\obj\Debug\net6.0\AddressBook.AssemblyInfo.cs
+C:\Users\Rahul.DESKTOP-IK03H3J\source\repos\AddressBook\obj\Debug\net6.0\AddressBook.csproj.CoreCompileInputs.cache
+C:\Users\Rahul.DESKTOP-IK03H3J\source\repos\AddressBook\obj\Debug\net6.0\AddressBook.dll
+C:\Users\Rahul.DESKTOP-IK03H3J\source\repos\AddressBook\obj\Debug\net6.0\refint\AddressBook.dll
+C:\Users\Rahul.DESKTOP-IK03H3J\source\repos\AddressBook\obj\Debug\net6.0\AddressBook.pdb
+C:\Users\Rahul.DESKTOP-IK03H3J\source\repos\AddressBook\obj\Debug\net6.0\AddressBook.genruntimeconfig.cache
+C:\Users\Rahul.DESKTOP-IK03H3J\source\repos\AddressBook\obj\Debug\net6.0\ref\AddressBook.dll
